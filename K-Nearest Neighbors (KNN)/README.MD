@@ -44,22 +44,22 @@ PCA (Principal Component Analysis) mainly using to reduce the size of the featur
   
 ## 7. Data splitting
 For the model building I am using K Nearest Neighbors. So we need find an optimal K to get the best out of it.
-![image](![data spitting](https://user-images.githubusercontent.com/52014041/234175524-f864a5f3-c14c-428f-a317-db647def61e3.png))
+![image](![data spitting](https://user-images.githubusercontent.com/52014041/234175524-f864a5f3-c14c-428f-a317-db647def61e3.png)
 
 
 ## Result -->
 After applying the KNN algorithm to the dataset and performing the necessary data preprocessing, we obtained the following results:
-![image](![result](https://user-images.githubusercontent.com/52014041/234175846-5c49ef4f-f17c-465d-b4a9-26792c644294.png))
+![image](![result](https://user-images.githubusercontent.com/52014041/234175846-5c49ef4f-f17c-465d-b4a9-26792c644294.png)
 
 ## KNN Graphical Representation
 
 ### Graphical KNN representation 1 - Heatmap
-![image](![heatmap](https://user-images.githubusercontent.com/52014041/234176610-abd0a76e-7549-42ac-b479-e8716ca96d02.png))
+![image](![heatmap](https://user-images.githubusercontent.com/52014041/234176610-abd0a76e-7549-42ac-b479-e8716ca96d02.png)
 
 
 ### Graphical KNN representation 2 - Decision Boundary
-![image](![decision boundary](https://user-images.githubusercontent.com/52014041/234176671-977b983b-a801-4b88-93cf-4fdc7e9e7af1.png))
+![image](![decision boundary](https://user-images.githubusercontent.com/52014041/234176671-977b983b-a801-4b88-93cf-4fdc7e9e7af1.png)
 
 ### Graphical KNN representation 3 - Voronoi diagram
-![image](![voronoi diagram](https://user-images.githubusercontent.com/52014041/234176707-1d97db88-74e5-4a33-a6da-1c7c73324c74.png))
+![image](![voronoi diagram](https://user-images.githubusercontent.com/52014041/234176707-1d97db88-74e5-4a33-a6da-1c7c73324c74.png)
 
