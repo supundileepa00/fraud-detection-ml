@@ -61,5 +61,5 @@ After applying the KNN algorithm to the dataset and performing the necessary dat
 ![image](![decision boundary](https://user-images.githubusercontent.com/52014041/234176671-977b983b-a801-4b88-93cf-4fdc7e9e7af1.png)
 
 ### Graphical KNN representation 3 - Voronoi diagram
-![image](![voronoi diagram](https://user-images.githubusercontent.com/52014041/234176707-1d97db88-74e5-4a33-a6da-1c7c73324c74.png)
+![voronoi diagram](https://user-images.githubusercontent.com/52014041/234176707-1d97db88-74e5-4a33-a6da-1c7c73324c74.png)
 
